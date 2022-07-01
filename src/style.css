@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+/* Estilização -header- */
+.logo{
+    width: 200px;
+    height: auto;
+}
+header{
+    width: 100%;
+    background-color: blue;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.container-nav{
+background-color: aqua;
+font-size: 20px;
+margin: auto;
+margin-left: 200px;
+}
+.container-list{
+    display: flex; 
+    list-style: none;
+}
+.child-list{
+  background-color: blueviolet;
+  margin: 40px;
+}
+
+/* Fim da estilização -header- */
+
+.d-block{
+    padding-top: 15px;
+    width: 100vw;
+    height: 600px;
+}
