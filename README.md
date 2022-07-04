@@ -1,9 +1,4 @@
-# Sobre o site
-  
-  Site com um modelo de super mercado e Todo responsivo. No site vem com carrossel e liks de redrecionamento.
-  O projeto ainda se encontra em fase de desenvolvimento ainda não pronto para o uso.
-     
-  
+
    # Tecnologias usadas 
    - HTML5
    - CSS3
